@@ -7,10 +7,15 @@ The parameter 'value' is the total TWD value you wanna exchange to other currenc
 Change the URL to ./exchangerate and try it. 
 
 The following currencies are supported:
+
 USD - America
+
 HKD - Hongkong
+
 GBP - England
+
 AUD - Australia
+
 CAD - Canada
 
 The program is built by Maven. 
